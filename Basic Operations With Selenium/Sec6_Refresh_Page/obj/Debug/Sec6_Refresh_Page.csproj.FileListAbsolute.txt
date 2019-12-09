@@ -1,0 +1,17 @@
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\bin\Debug\Sec6_Refresh_Page.exe.config
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\bin\Debug\Sec6_Refresh_Page.exe
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\bin\Debug\Sec6_Refresh_Page.pdb
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\bin\Debug\WebDriver.dll
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\bin\Debug\WebDriver.xml
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\MainWindow.g.cs
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\App.g.cs
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page_MarkupCompile.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page_MarkupCompile.lref
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\MainWindow.baml
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.g.resources
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.Properties.Resources.resources
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.csproj.GenerateResource.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.csproj.CoreCompileInputs.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.csproj.CopyComplete
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.exe
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec6_Refresh_Page\obj\Debug\Sec6_Refresh_Page.pdb

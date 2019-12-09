@@ -1,0 +1,17 @@
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\bin\Debug\Sec2_GetCurrentSourcePage.exe.config
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\bin\Debug\Sec2_GetCurrentSourcePage.exe
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\bin\Debug\Sec2_GetCurrentSourcePage.pdb
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\bin\Debug\WebDriver.dll
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\bin\Debug\WebDriver.xml
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\MainWindow.g.cs
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\App.g.cs
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage_MarkupCompile.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage_MarkupCompile.lref
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\MainWindow.baml
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.g.resources
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.Properties.Resources.resources
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.csproj.GenerateResource.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.csproj.CoreCompileInputs.cache
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.csproj.CopyComplete
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.exe
+D:\Khóa học selenimum C#\Selenium c#\Basic Operations With Selenium\Sec2_GetCurrentSourcePage\obj\Debug\Sec2_GetCurrentSourcePage.pdb

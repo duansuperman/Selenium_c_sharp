@@ -1,0 +1,9 @@
+﻿<Application x:Class="sec7_Select_Value_Dropdownlist.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:sec7_Select_Value_Dropdownlist"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

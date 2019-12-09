@@ -1,0 +1,8 @@
+1.Cài đặt môi trường:
+Cài đặt  3 gói: Selenium.Webdriver
+				Selenium.Webdriver.ChromeDriver (Cài driver cho browser)
+				Selenium.FireforeDriver.ChromeDriver (Cài driver cho browser)
+				
+XPath: Lấy element theo thứ tự của html
+
+CSSSelector: lấy element theo thứ tự của css
