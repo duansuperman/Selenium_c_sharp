@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec8_Profile_Selenium", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec9_Proxy_Selenium", "Sec9_Proxy_Selenium\Sec9_Proxy_Selenium.csproj", "{EFAF1356-A140-44C4-A155-66F47FC925EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec10_Change_Frame_Selenium", "Sec10_Change_Frame_Selenium\Sec10_Change_Frame_Selenium.csproj", "{C24EA38F-ECA8-471F-9250-A60933F35947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec11_Upload_file", "Sec11_Upload_file\Sec11_Upload_file.csproj", "{3718DDC2-132C-4AE5-8618-4B9D259DCDB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{EFAF1356-A140-44C4-A155-66F47FC925EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFAF1356-A140-44C4-A155-66F47FC925EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFAF1356-A140-44C4-A155-66F47FC925EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24EA38F-ECA8-471F-9250-A60933F35947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24EA38F-ECA8-471F-9250-A60933F35947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24EA38F-ECA8-471F-9250-A60933F35947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24EA38F-ECA8-471F-9250-A60933F35947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3718DDC2-132C-4AE5-8618-4B9D259DCDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3718DDC2-132C-4AE5-8618-4B9D259DCDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3718DDC2-132C-4AE5-8618-4B9D259DCDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3718DDC2-132C-4AE5-8618-4B9D259DCDB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
